@@ -8,3 +8,5 @@
 * Shazam
 * Cybort
 * linterna verde
+* Aquaman
+* Deadpoll
