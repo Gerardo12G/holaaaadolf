@@ -4,3 +4,5 @@
 * Doctor Domm
 * Joker
 * Lex Luthor
+* Hombre de Arena
+* Duende Verde
