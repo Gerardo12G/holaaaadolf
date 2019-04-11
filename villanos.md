@@ -8,3 +8,5 @@
 * Duende Verde
 * Darksied
 * Manta Negra
+* Siniestro
+* DeathSroke
